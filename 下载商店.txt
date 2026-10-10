@@ -1,11 +1,11 @@
 {
 "wallpaper":"https://xn--ieei-wn6lw489o.v.nxog.top/m/t/",
 "logo":"https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
-"spider":"https://raw.yzuu.cf/local/localrepo/main/jar/下载商店.jar",
+"spider":"https://raw.yzuu.cf/DreamLZZ/haokande/main/jar/下载商店.jar",
 "warningText":"📢此线路仅用于更新应用\n📢不包含任何影视信息\n📢接口软件长期免费维护 \n📢内部测试使用切勿传播",
 
 "sites": [
-{"key": "应用商店","name": "点下方>点播应用<下载新版","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ysc.apei583.dpdns.org/market.json","jar":"https://raw.yzuu.cf/local/localrepo/main/jar/下载商店.jar"}
+{"key": "应用商店","name": "点下方>点播应用<下载新版","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://ysc.apei583.dpdns.org/market.json","jar":"https://raw.yzuu.cf/DreamLZZ/haokande/main/jar/下载商店.jar"}
 ],
 "parses":[
 {"name":"-聚合-","type":3,"url":"Demo"},

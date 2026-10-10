@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://wp.upx8.com/api.php",
-    "spider": "https://raw.yzuu.cf/local/localrepo/main/jar/DAFWd7ixRN.jar",
+    "spider": "https://raw.yzuu.cf/DreamLZZ/haokande/main/jar/mav3geuRRK.jar",
     "lives": [
         {
           "name": "本地live文件",
