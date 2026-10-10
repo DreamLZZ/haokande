@@ -1,4 +1,4 @@
-﻿{
+{
 "spider":"https://raw.yzuu.cf/local/localrepo/main/jar/小马.jar",
 "wallpaper":"https://szyyds.cn/api.php","logo":"https://szyyds.cn/1.png",
     "sites":[
