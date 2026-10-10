@@ -1,1 +1,12 @@
-{"urls": [{"name": "小马", "url": "https://raw.yzuu.cf/local/localrepo/main/小马.txt"}]}
+{
+    "urls": [
+        {
+            "name": "俊佬",
+            "url": "https://raw.yzuu.cf/local/localrepo/main/俊佬.txt"
+        },
+        {
+            "name": "小马",
+            "url": "https://raw.yzuu.cf/local/localrepo/main/小马.txt"
+        }
+    ]
+}
