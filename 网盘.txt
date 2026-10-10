@@ -733,5 +733,5 @@
       "filterable": 1
     }
   ],
-  "spider": "https://raw.yzuu.cf/DreamLZZ/haokande/main/jar/网盘.jar"
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/jar/网盘.jar"
 }

@@ -2,31 +2,31 @@
     "urls": [
         {
             "name": "1",
-            "url": "https://raw.yzuu.cf/DreamLZZ/haokande/main/1.txt"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/1.txt"
         },
         {
             "name": "2",
-            "url": "https://raw.yzuu.cf/DreamLZZ/haokande/main/2.txt"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/2.txt"
         },
         {
             "name": "3",
-            "url": "https://raw.yzuu.cf/DreamLZZ/haokande/main/3.txt"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/3.txt"
         },
         {
             "name": "海外",
-            "url": "https://raw.yzuu.cf/DreamLZZ/haokande/main/海外.txt"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/海外.txt"
         },
         {
             "name": "下载商店",
-            "url": "https://raw.yzuu.cf/DreamLZZ/haokande/main/下载商店.txt"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/下载商店.txt"
         },
         {
             "name": "网盘",
-            "url": "https://raw.yzuu.cf/DreamLZZ/haokande/main/网盘.txt"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/网盘.txt"
         },
         {
             "name": "网盘2",
-            "url": "https://raw.yzuu.cf/DreamLZZ/haokande/main/网盘2.txt"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/网盘2.txt"
         }
     ]
 }

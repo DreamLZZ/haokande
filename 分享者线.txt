@@ -2472,7 +2472,7 @@
 
 //jar+壁纸
 
-"spider":"https://raw.yzuu.cf/DreamLZZ/haokande/main/jar/分享者线.jar","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/jar/分享者线.jar","wallpaper":"https://tool.weetai.cn/api", "warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
 
 //电视直播
 

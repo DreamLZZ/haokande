@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.yzuu.cf/DreamLZZ/haokande/main/jar/ZMyIzuZ5Dk.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/jar/ZMyIzuZ5Dk.jar",
   "lives": [
     {
       "name": "平台直播",

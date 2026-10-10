@@ -3,7 +3,7 @@
 
 
         {
-            "spider":"https://raw.yzuu.cf/DreamLZZ/haokande/main/jar/XvHWFLoPwL.jar",
+            "spider":"https://gh-proxy.com/https://raw.githubusercontent.com/DreamLZZ/haokande/main/jar/XvHWFLoPwL.jar",
             "wallpaper":"http://tool.teyonds.com/api",
             "warningText":"坤哥视频温馨提示：软件接口完全免费",
 
